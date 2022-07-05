@@ -1,0 +1,54 @@
+body{
+ Background-color; white 
+
+}
+.title{
+  text-align: left;
+  font-size:300;
+  font-family: "Times New Roman";
+  font-color: white;
+}
+}
+
+.innerBox{
+  Background-image: url("Images/Background.jpg");
+  border-radius: 25px;
+  padding: 50px;
+  }
+
+.mainHeading{
+  color:black;
+  font-size: 450%;
+  text-align: center;
+  font-family: sans-serif;
+  text-decoration-color: initial;
+  text-decoration:rgb(167, 136, 14)
+}
+.bottomBox{
+background-color: darkgrey;
+  border-radius: 125px;
+  padding: 350px;
+  }
+
+.h1{
+  text-align: left;
+  font-size:300;
+  font-family: "Times New Roman";
+}
+
+.labelBox{
+  text-align: left; 
+  font-size: 50%;
+  font-family: "Times New Roman";
+}
+
+.h2{
+  text-align: left;
+  font-size:200;
+  font-family: "Times New Roman";
+}
+.submission{
+  text-align: center end; 
+  font-size: 100;
+  font-family: "Times New Roman";
+}
